@@ -385,7 +385,8 @@ export const styles = {
 
   // beginning of wallet list progress dropdown //
   walletListProgressDropdown: {
-    width: '100%'
+    width: '100%',
+    top: THEME.HEADER
   },
   walletListProgressDropdownTopText: {
     color: THEME.COLORS.WHITE
